@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/JoyGames.Core/JoyGames.Core.csproj" />
+    <Project Path="src/JoyGames.Infrastructure/JoyGames.Infrastructure.csproj" />
+    <Project Path="src/JoyGames.Web/JoyGames.Web.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/JoyGames.Tests/JoyGames.Tests.csproj" />
+  </Folder>
+</Solution>
