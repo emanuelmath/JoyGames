@@ -3,7 +3,7 @@
 # 🎮 JoyGames
 ### Video Game Catalog and Management Platform in .NET 10
 
-[![C#](https://img.shields.io/badge/C%23_13-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
+[![C#](https://img.shields.io/badge/C%23_14-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
 [![.NET](https://img.shields.io/badge/.NET_10-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/en-us/download/dotnet/10.0)
 [![SQL Server](https://img.shields.io/badge/SQL_Server-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)](https://www.microsoft.com/sql-server)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap_5-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
@@ -88,7 +88,7 @@ The solution is split into independent projects (`.csproj`) following **Clean Ar
 
 ## 🛠️ Technologies Used
 
-- **Language:** C# 13 (.NET 10)
+- **Language:** C# 14 (.NET 10)
 - **Architecture:** Clean Architecture + SOLID
 - **Web Framework:** ASP.NET Core MVC (Razor Views, TagHelpers)
 - **Database:** SQL Server (Stored Procedures + ADO.NET / Dapper)

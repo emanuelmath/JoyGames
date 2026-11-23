@@ -1,0 +1,5 @@
+* text=auto
+
+src/JoyGames.Web/wwwroot/lib/** linguist-vendored
+*.min.js linguist-vendored
+*.min.css linguist-vendored
